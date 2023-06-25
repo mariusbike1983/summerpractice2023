@@ -1,1 +1,1 @@
-# summerpractice2023
+# the summer practice project for 2023
